@@ -5,10 +5,10 @@ async function main() {
 
   console.log("Account balance:", (await deployer.getBalance()).toString());
 
-  const Token = await ethers.getContractFactory("Token");
-  const token = await Token.deploy();
+  const WickedCraniums = await ethers.getContractFactory("WickedCraniums");
+  const wickedCraniums = await WickedCraniums.deploy();
 
-  console.log("Token address:", token.address);
+  console.log("Token address:", wickedCraniums.address);
 }
 
 main()

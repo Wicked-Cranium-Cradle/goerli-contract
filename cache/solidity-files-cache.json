@@ -1,10 +1,10 @@
 {
   "_format": "hh-sol-cache-2",
   "files": {
-    "/Users/atharvashukla/Documents/GitHub/nft-contract-deployment/contracts/WickedCranium.sol": {
-      "lastModificationDate": 1672733354787,
+    "/Users/atharvashukla/Documents/GitHub/nft-contract-deployment/contracts/WickedCraniums.sol": {
+      "lastModificationDate": 1672739038084,
       "contentHash": "671f5cdbd01b16f93e0d51f49c46b490",
-      "sourceName": "contracts/WickedCranium.sol",
+      "sourceName": "contracts/WickedCraniums.sol",
       "solcConfig": {
         "version": "0.7.0",
         "settings": {
